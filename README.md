@@ -16,6 +16,11 @@ Using Wireshark for packet capture and a Firefox browser to access the router ma
 ![Wireshark](http://ciber.sejalivre.org/HGB10R-2/wireshark.png)
 
 
+### PoC on Video:
+
+[![HGB10R-2](https://i.ibb.co/9r0DCFK/https-i-vimeocdn-com-video-838301175-720.jpg)](https://vimeo.com/378517982 "HGB10R-2")
+
+
 ## Admin Credentials on Backup File
 
 Another vulnerability (which has been around since the HG100 2.0.6 release as per CVE-2017-7317) is that an attacker could gain router admin credentials and Wi-Fi credential by having access to backup file as per images below:
