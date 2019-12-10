@@ -1,5 +1,5 @@
 # HGB10R-2
-Exploit Modem Humax HGB10R-2
+Exploiting Router Humax Wireless Voice Gateway HGB10R-2
 
 ## Admin Credentials on HTTP Request
 
