@@ -1,6 +1,12 @@
 # HGB10R-2
 Exploiting Router Humax Wireless Voice Gateway HGB10R-2
 
+On this PoC i published the CVEs below:
+
+CVE-2019-19889: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19889
+CVE-2019-19890: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19890
+
+
 ## Admin Credentials on HTTP Request
 
 This is a Proof of Concept on how to get the Humax HGB10R-2 router admin credentials when sniffing the HTTP traffic packets.
